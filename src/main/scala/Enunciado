@@ -1,0 +1,6 @@
+
+ En el método Main, debes crear una lista (List) de Usuarios. Para cada elemento:
+      - Si es de tipo Invitado, debes mostrarle el mensaje "No estás autorizado a entrar en esta lección".
+      - Si es de tipo Estudiante, debes comprobar que su $nombre y $password existe y mostrar el mensaje "Bienvenid@ a OpenVitae, $nombre".
+
+- Consideraciones: Debes usar una de las funcionalidades más potentes de Scala, llamada pattern
